@@ -1,2 +1,7 @@
 # TSSC-coronavirus
-Testing System The Symptoms of Coronavirus
+Project Title
+One Paragraph of project description goes here
+
+Prerequisites
+
+python 3.7
